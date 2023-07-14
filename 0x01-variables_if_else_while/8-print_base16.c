@@ -20,9 +20,9 @@ int main(void)
 	for (d = '0'; d <= '9'; d++)
 	putchar(d);
 
-	for (low = 'a' low <= 'f'; low+)
+	for (low = 'a'; low <= 'f'; low++)
 	putchar(low);
-	purchar('\n');
+	putchar('\n');
 
 	return (0);
 
